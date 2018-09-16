@@ -1,5 +1,3 @@
-##  Welcome to GitHub Pages
-
 ### GO TO CLASS!
 ### WRITE CODE!
 ### DRINK BEER!
